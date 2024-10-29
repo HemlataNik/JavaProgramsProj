@@ -13,7 +13,7 @@ public class Lab002 {
  * * * * * * *
  */
 		
-		for(int i = 1; i <= 7; i++)
+		for(int i = 1; i <=7 ; i++)
 		{
 			
 			for (int j = 1; j<=i; j++)
