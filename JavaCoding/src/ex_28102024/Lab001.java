@@ -2,7 +2,7 @@ package ex_28102024;
 
 public class Lab001 {
 	public static void main(String[] args) {
-		int a = 20, b = 20;
+		int a = 22, b = 20;
 		
 //		if (a>b)
 //		{
